@@ -1,0 +1,3 @@
+C:/Users/slava/CLionProjects/MatrixPipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slava/CLionProjects/MatrixPipe/cmake-build-debug/CMakeFiles/MatrixPipe.dir
+C:/Users/slava/CLionProjects/MatrixPipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
